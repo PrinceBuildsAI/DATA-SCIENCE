@@ -1,0 +1,8 @@
+1. Data Cleaning
+2. Data Analysis
+3. Data Transformation
+4. Data Visualization(Basis Level)
+4. Data Aggregation
+5. File Handling
+6. Data filtering and selection
+7. Time series Analysis
